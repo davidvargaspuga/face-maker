@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CS301_Homework2</string>
+
+    <string-array name="hairStyles">
+        <item>Bowl Cut</item>
+        <item>Spiky Hair</item>
+        <item>Bald</item>
+    </string-array>
+</resources>
